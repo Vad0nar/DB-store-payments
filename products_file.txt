@@ -1,0 +1,40 @@
+1,1,1,20,500,'UAH',19.50,'Bread',250,'https://www.jabko/image/bread.jpg','The promotion is valid until 15.10.2024',300
+1,2,1,15,300,'UAH',25.00,'Milk',150,'https://www.jabko/image/milk.jpg','Fresh product',250
+1,3,1,10,1000,'UAH',99.99,'Flour',75,'https://www.jabko/image/flour.jpg','Suitable for baking',400
+1,4,1,30,200,'UAH',12.30,'Butter',180,'https://www.jabko/image/butter.jpg','Best before 20.10.2024',320
+1,5,1,5,50,'UAH',7.80,'Eggs',500,'https://www.jabko/image/eggs.jpg','Pack of 10',290
+1,6,1,25,100,'UAH',35.60,'Cheese',100,'https://www.jabko/image/cheese.jpg','Aged 3 months',350
+1,7,1,18,700,'UAH',60.00,'Chicken',60,'https://www.jabko/image/chicken.jpg','Organic meat',280
+1,8,1,12,900,'UAH',45.00,'Rice',40,'https://www.jabko/image/rice.jpg','Long grain variety',270
+1,9,1,8,400,'UAH',29.50,'Apples',220,'https://www.jabko/image/apples.jpg','Golden variety',310
+1,10,1,7,250,'UAH',14.00,'Tomatoes',100,'https://www.jabko/image/tomatoes.jpg','Greenhouse grown',260
+2,11,1,15,100,'UAH',12.50,'Notebook',300,'https://www.jabko/image/notebook.jpg','80 sheets, A5 size',350
+2,12,1,20,50,'UAH',8.00,'Pen',500,'https://www.jabko/image/pen.jpg','Blue ink, ballpoint',320
+2,13,1,25,500,'UAH',35.99,'Backpack',100,'https://www.jabko/image/backpack.jpg','Waterproof material',400
+2,14,1,5,10,'UAH',2.50,'Eraser',800,'https://www.jabko/image/eraser.jpg','Soft rubber',290
+2,15,1,3,5,'UAH',3.75,'Pencil',600,'https://www.jabko/image/pencil.jpg','HB graphite',300
+2,16,1,8,30,'UAH',15.20,'Ruler',200,'https://www.jabko/image/ruler.jpg','30 cm plastic ruler',330
+2,17,1,12,1000,'UAH',99.99,'Office Chair',50,'https://www.jabko/image/officechair.jpg','Ergonomic design',450
+2,18,1,10,200,'UAH',45.00,'Stapler',150,'https://www.jabko/image/stapler.jpg','Includes 1000 staples',380
+2,19,1,6,15,'UAH',7.00,'Glue Stick',400,'https://www.jabko/image/gluestick.jpg','Non-toxic, 20g',310
+2,20,1,4,300,'UAH',120.50,'Whiteboard',30,'https://www.jabko/image/whiteboard.jpg','Magnetic surface, 90x60cm',470
+3,21,1,10,500,'UAH',30.50,'Apples',400,'https://www.jabko/image/apples.jpg','Fresh red apples',360
+3,22,1,20,1000,'UAH',50.00,'Oranges',350,'https://www.jabko/image/oranges.jpg','Imported from Spain',370
+3,23,1,5,500,'UAH',12.00,'Bananas',600,'https://www.jabko/image/bananas.jpg','Rich in potassium',320
+3,24,1,15,200,'UAH',25.99,'Cherries',150,'https://www.jabko/image/cherries.jpg','Organic cherries',410
+3,25,1,2,50,'UAH',8.50,'Lettuce',200,'https://www.jabko/image/lettuce.jpg','Crispy and fresh',300
+3,26,1,4,100,'UAH',15.30,'Tomatoes',500,'https://www.jabko/image/tomatoes.jpg','Locally grown',340
+3,27,1,6,250,'UAH',22.40,'Carrots',300,'https://www.jabko/image/carrots.jpg','Rich in vitamin A',350
+3,28,1,8,200,'UAH',28.70,'Potatoes',450,'https://www.jabko/image/potatoes.jpg','Good for baking',320
+3,29,1,3,100,'UAH',9.90,'Onions',700,'https://www.jabko/image/onions.jpg','Perfect for cooking',310
+3,30,1,12,300,'UAH',42.00,'Grapes',250,'https://www.jabko/image/grapes.jpg','Seedless green grapes',380
+4,31,1,20,500,'UAH',25.50,'Bread',250,'https://www.jabko/image/bread.jpg','The promotion is valid until 15.10.2024',300
+4,32,1,15,300,'UAH',30.00,'Milk',150,'https://www.jabko/image/milk.jpg','Fresh product',250
+4,33,1,10,1000,'UAH',109.99,'Flour',75,'https://www.jabko/image/flour.jpg','Suitable for baking',400
+4,34,1,30,200,'UAH',17.30,'Butter',180,'https://www.jabko/image/butter.jpg','Best before 20.10.2024',320
+4,35,1,5,50,'UAH',9.80,'Eggs',500,'https://www.jabko/image/eggs.jpg','Pack of 10',290
+4,36,1,25,100,'UAH',42.60,'Cheese',100,'https://www.jabko/image/cheese.jpg','Aged 3 months',350
+4,37,1,18,700,'UAH',75.00,'Chicken',60,'https://www.jabko/image/chicken.jpg','Organic meat',280
+4,38,1,12,900,'UAH',55.00,'Rice',40,'https://www.jabko/image/rice.jpg','Long grain variety',270
+4,39,1,8,400,'UAH',35.50,'Apples',220,'https://www.jabko/image/apples.jpg','Golden variety',310
+4,40,1,7,250,'UAH',18.00,'Tomatoes',100,'https://www.jabko/image/tomatoes.jpg','Greenhouse grown',260

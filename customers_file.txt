@@ -1,0 +1,5 @@
+1,'Volodya','Germany','Franghfut',73629,'Green 1','192.182.68.10',+4982619217,'VolodyaStr@gmail.com'
+2,'Jack','Ukraine','Lviv',79056,'Sadova 1','192.168.72.16',0664821921,'JacksonSon@gmail.com'
+3,'Michele','Germany','Franghfut',73671,'New York 12','192.182.74.10',+4961876212,'Msuper234aa@gmail.com'
+4,'Arnai','Kazakhstan','Anupa',26379,'Tataieva 16','168.98.74.10',+792031678,'Khabib@mail.ru'
+5,'Stanislav','Ukraine','Dnipro',79256,'Zavodska 12',168.72.16.10,066712899,'StasVasylyovych@gmail.com'

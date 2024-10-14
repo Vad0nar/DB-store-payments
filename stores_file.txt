@@ -1,0 +1,4 @@
+1,	'Germany',	'Jabko',	'https://www.jabko.pa' ,
+2,	'Japan'	,	'Qawai',	'https://www.qawai.com' ,
+3,	'Kazakhstan',	'Cherry',	'https://www.cherryshop.kz' ,
+4,	'Ukraine',	'Aurrora',	'https://www.aurrora.com.ua',

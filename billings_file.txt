@@ -1,0 +1,5 @@
+1,1,'Germany','Franghfut','Franghfut',73629
+2,2,'Ukraine','Lviv','Lviv',79056
+3,3,'Kazakhstan','Anupa','Anupa',73671
+4,4,'Germany','Franghfut','Franghfut',26379
+5,5,'Ukraine','Dnipro','Dnipro',79256
